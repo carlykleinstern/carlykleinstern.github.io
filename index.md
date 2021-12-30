@@ -11,4 +11,4 @@ Our instrument is the Chicago Water Isotope Spectrometer (ChiWIS), which flies a
 ### Experience
 I didn't start in atmospheric sciences, though...my past experience is in:
 
- Particle physics (direct dark matter detection using liquid and solid state detectors), Astrophysics (galaxy mergers), Astronomy (radio astronomy, X-shaped radio galaxies; optical astronomy, comets and asteroids)
+ Experimental particle physics (direct dark matter detection using liquid and solid state detectors), Astrophysics (galaxy mergers), Astronomy (radio astronomy, X-shaped radio galaxies; optical astronomy, comets and asteroids)
