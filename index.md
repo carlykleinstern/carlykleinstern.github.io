@@ -1,23 +1,17 @@
-## Welcome to GitHub Pages
+## Thanks for visiting my website
 
-Does this work?
+I'm a 3rd year Physics PhD student at the University of Chicago. I work in the Department of Geosciences. 
 
-### Markdown
+### Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our group makes high-altitude in-situ water vapor measurements in the upper troposphere and lower stratosphere (UT/LS).
 
 ```markdown
-Syntax highlighted code block
+I didn't start in atmospheric sciences, though...my past experience is in:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Astronomy (radio astronomy, X-shaped radio galaxies; optical astronomy, comets and asteroids)
+2. Astrophysics (galaxy mergers)
+3. Particle physics (direct dark matter detection using liquid and solid state detectors)
 
 **Bold** and _Italic_ and `Code` text
 
