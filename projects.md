@@ -1,5 +1,5 @@
 
-<div class="topnav">
+<div class="topnav" align=center>
   <a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
     <button>CV</button></a>
   <a href="https://carlykleinstern.github.io/">
