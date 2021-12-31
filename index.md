@@ -10,7 +10,7 @@
 <button onclick="location.href='https//:carlykleinstern.github.io/KleinStern_CV_publish.pdf'" type="button">
          CV</button>
          
-<a href="https//:carlykleinstern.github.io/KleinStern_CV_publish.pdf">
+<a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
     <button>Click me</button>
 </a>
          
