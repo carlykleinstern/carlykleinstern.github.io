@@ -8,8 +8,9 @@
   <a href="https://carlykleinstern.github.io/projects.html">
     <button style="height:60px;width:100px;color:#0f5f6b; font-weight:bold; border-color:#0f5f6b; background-color:White">Research</button></a>
   <a href="https://carlykleinstern.github.io/aboutme.html">
-    <button style="height:60px;width:100px;color: #0d782d; font-weight:bold; border-color: #0d782d; background-color:White">About</button></a>
-
+    <button style="height:60px;width:100px;color: #0d782d; font-weight:bold; border-color: #0d782d; background-color:White">Links</button></a>
+  <a href="https://carlykleinstern.github.io/presentations.html">
+    <button style="height:60px;width:100px;color: #39f50f; font-weight:bold; border-color: #39f50f; background-color:White">Talks</button></a>
 </div>
 
 ## **Presentations**
