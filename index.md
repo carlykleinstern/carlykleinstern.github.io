@@ -38,7 +38,7 @@ Email: _cckleinstern@uchicago.edu_
   method="POST"
 >
   <label>
-    Your email:
+    Your email address:
     <input type="email" name="_replyto">
   </label>
   <br>
