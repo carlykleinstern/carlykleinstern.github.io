@@ -5,7 +5,8 @@ I'm a 3rd year Physics PhD student at the University of Chicago. I work with Pro
 
 <img src="photos/headshot.jpg" 
      width=300px 
-     height=auto />
+     height=auto 
+     class="center"/>
 
 
 ### **Research**
