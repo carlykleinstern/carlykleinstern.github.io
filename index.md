@@ -43,7 +43,7 @@ Email: _cckleinstern@uchicago.edu_
 >
   <label>
     Your email address:
-    <input type="email" name="_replyto" color:#0f5f6b >
+    <input type="email" name="_replyto" color=#0f5f6b >
   </label>
   <br>
   <br>
