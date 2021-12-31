@@ -5,7 +5,7 @@ I'm a 3rd year Physics PhD student at the University of Chicago. I work with Pro
 
 
 <p align="center">
-<img width="200" src="photos/headshot.jpg"  alt="Carly">
+<img width="200" src="photos/IMG_1592.jpeg"  alt="Carly">
 </p>
 
 
