@@ -15,16 +15,9 @@
 I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences.
 My research is high-altitude in-situ water vapor and water vapor isotopologue measurements in the upper troposphere and lower stratosphere (UT/LS). 
 
-<p class="aligncenter">
-    <img src="photos/IMG_1592.jpeg" alt="Carly" width=300px height=auto />
-</p>
-
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
-
+<div align='center'>
+   <img src="photos/bean.jpg" alt="Carly"><br/>
+</div>
 
 
 
