@@ -1,11 +1,11 @@
 
 <div class="topnav" align=center>
   <a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
-    <button style="height:20px;width:50px">CV</button></a>
+    <button style="height:60px;width:auto">CV</button></a>
   <a href="https://carlykleinstern.github.io/aboutme.html">
-    <button style="height:20px;width:50px">About</button></a>
+    <button style="height:60px;width:auto">About</button></a>
   <a href="https://carlykleinstern.github.io/projects.html">
-    <button style="height:20px;width:50px">Projects</button></a>
+    <button style="height:60px;width:auto">Projects</button></a>
 </div>
 
          
