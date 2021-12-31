@@ -18,7 +18,7 @@ I'm a 3rd year Physics PhD student at the University of Chicago. I work with Pro
 
 
 <p align="center">
-<img width="300" src="photos/bean.jpg"  alt="Carly">
+<img width="300" src=  alt="Carly">
 </p>
 
 
