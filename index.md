@@ -38,7 +38,7 @@ You can find my CV [here](https://carlykleinstern.github.io/KleinStern_CV_publis
 ### **Let's talk!**
 Email: _cckleinstern@uchicago.edu_
 <br>
-We're interested to swap notes with other high-altitude water vapor and cloud formation teams.
+I'd also love to swap notes with other high-altitude water vapor and cloud formation teams.
 
 <form
   action="https://formspree.io/f/mwkypbvd"
