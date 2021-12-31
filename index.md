@@ -1,7 +1,7 @@
 
 
 
-<div class="topnav">
+<div class="container">
   <div class="vertical-center">
     <a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
     <button>CV</button></a>
