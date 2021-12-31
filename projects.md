@@ -8,8 +8,6 @@
   <a href="https://carlykleinstern.github.io/aboutme.html">
     <button style="height:60px;width:100px;color:#0f5f6b; font-weight:bold; border-color:#0f5f6b; background-color:White">About</button></a>
 </div>
-  
-</div>
 
 ## **Current Research**
 
