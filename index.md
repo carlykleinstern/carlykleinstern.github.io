@@ -22,11 +22,6 @@ I'm a 3rd year Physics PhD student at the University of Chicago. I work with Pro
 </p>
 
 
-### **Research**
-
-
-
-
 ### **Experience**
 It's not been a straight shot to atmospheric sciences...my past experience is in:
 
