@@ -1,11 +1,12 @@
 
+
 <div class="topnav" align=center>
   <a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
-    <button>CV</button></a>
-  <a href="https://carlykleinstern.github.io/">
-    <button>Home</button></a>
+    <button style="height:60px;width:100px;color:#3b0c6e; font-weight:bold; border-color:#3b0c6e; background-color:White">CV</button></a>
+  <a href="https://carlykleinstern.github.io">
+    <button style="height:60px;width:100px;color:##0e1f6b; font-weight:bold; border-color:#0e1f6b; background-color:White">Home</button></a>
   <a href="https://carlykleinstern.github.io/projects.html">
-    <button>Projects</button></a>
+    <button style="height:60px;width:100px;color:#0f5f6b; font-weight:bold; border-color:#0f5f6b; background-color:White">Projects</button></a>
 </div>
 
 ## **About**
