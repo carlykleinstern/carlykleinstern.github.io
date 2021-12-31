@@ -1,3 +1,8 @@
+nav_order: 4
+aux_links:
+  "Carly KleinStern":
+    - "https://carlykleinstern/github.io"
+
 ## **Carly KleinStern**
 
 I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences. 
