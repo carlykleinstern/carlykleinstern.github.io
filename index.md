@@ -17,7 +17,9 @@ My research is high-altitude in-situ water vapor and water vapor isotopologue me
 </p>
 
 
-<img src = "photos/bean.jpg" alt="hi" class="inline" width=300px height=auto/></center>
+<p align="center">
+<img width="300" src= "photos/bean.jpg" alt="Carly">
+</p>
 
 
 
@@ -39,14 +41,14 @@ Email: _cckleinstern@uchicago.edu_
   action="https://formspree.io/f/mwkypbvd"
   method="POST"
 >
-  <label>
+  <label style="height:60px;width:auto;color:#0f5f6b; font-weight:bold; border-color:#0f5f6b; background-color:White">
     Your email address:
     <input type="email" name="_replyto">
   </label>
   <br>
   <br>
   <br>
-  <label>
+  <label style="height:60px;width:auto;color:#0f5f6b; font-weight:bold; border-color:#0f5f6b; background-color:White">
     Your message:
     <textarea name="message"></textarea>
   </label>
