@@ -7,6 +7,9 @@
   <a href="#about">About</a>
 </div>
 
+<button onclick="location.href='https//:carlykleinstern.github.io/KleinStern_CV_publish.pdf'" type="button">
+         CV</button>
+         
 ## **Carly KleinStern**
 
 I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences. 
