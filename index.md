@@ -22,6 +22,7 @@ You can find my CV [here](https://carlykleinstern.github.io/KleinStern_CV_publis
 
 
 ### **Let's talk!**
+Email: cckleinstern@uchicago.edu
 
 <form
   action="https://formspree.io/f/mwkypbvd"
