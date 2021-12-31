@@ -3,9 +3,9 @@
   <a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
     <button style="height:200px;width:200px">CV</button></a>
   <a href="https://carlykleinstern.github.io/aboutme.html">
-    <button>About</button></a>
+    <button style="height:200px;width:200px">About</button></a>
   <a href="https://carlykleinstern.github.io/projects.html">
-    <button>Projects</button></a>
+    <button style="height:200px;width:200px">Projects</button></a>
 </div>
 
          
@@ -15,7 +15,7 @@
 <p >I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences.</p>
 
 <div>
-    <p style="float: left;"><img src="photos/bean.jpg" height=300px width=auto border=200px align=right border=200px></p> <p align=left>  My research is high-altitude in-situ water vapor and water vapor isotopologue measurements in the upper troposphere and lower stratosphere (UT/LS). </p>
+    <p style="float: left;"><img src="photos/bean.jpg" height=300px width=auto border=200px align=right border=200px></p> <p align=right>  My research is high-altitude in-situ water vapor and water vapor isotopologue measurements in the upper troposphere and lower stratosphere (UT/LS). </p>
 </div>
 
 
