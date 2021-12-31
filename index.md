@@ -1,12 +1,25 @@
 
+<style>
+.container { 
+  height: 200px;
+  position: relative;
+  border: 3px solid green; 
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+</style>
 
 <div class="topnav">
-  <a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
+  <div class="vertical-center">
+    <a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
     <button>CV</button></a>
-  <a href="https://carlykleinstern.github.io/aboutme.html">
-    <button>About</button></a>
-  <a href="https://carlykleinstern.github.io/projects.html">
-    <button>Projects</button></a>
+  </div>
 </div>
 
          
