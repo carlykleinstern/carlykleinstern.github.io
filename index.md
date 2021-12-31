@@ -41,6 +41,7 @@ Email: _cckleinstern@uchicago.edu_
     Your email:
     <input type="email" name="_replyto">
   </label>
+  <br>
   <label>
     Your message:
     <textarea name="message"></textarea>
