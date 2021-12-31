@@ -13,7 +13,7 @@
 
          
 ## **Carly KleinStern**
-<p align=right>I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences.</p>
+<p align=left>I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences.</p>
 
 <div>
     <p style="float: left;"><img src="photos/bean.jpg" height=300px width=auto border="1px"></p>
