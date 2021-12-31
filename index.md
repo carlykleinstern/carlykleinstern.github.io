@@ -3,10 +3,10 @@
 
 I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences. 
 
-<img src="photos/headshot.jpg" 
-     width=300px 
-     height=auto 
-     class="center"/>
+
+<p align="center">
+<img width="200" src="photos/headshot.jpg"  alt="Carly">
+</p>
 
 
 ### **Research**
