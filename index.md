@@ -11,8 +11,8 @@ Our instrument is the Chicago Water Isotope Spectrometer (ChiWIS), which flies a
 
 
 ### Experience
-I didn't start in atmospheric sciences, though...my past experience is in:
+It's not been a straight shot to atmospheric sciences...my past experience is in:
 
- Experimental particle physics (direct dark matter detection using liquid and solid state detectors), Astrophysics (galaxy mergers), Astronomy (radio astronomy, X-shaped radio galaxies; optical astronomy, comets and asteroids)
+Experimental particle physics (direct dark matter detection using liquid and solid state detectors), astrophysics (galaxy mergers), astronomy (radio astronomy, X-shaped radio galaxies; optical astronomy, comets and asteroids)
 
 You can find my CV [here](http://carlykleinstern.github.io/carlykleinstern/KleinStern_CV_publish.pdf).
