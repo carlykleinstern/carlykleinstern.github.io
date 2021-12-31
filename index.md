@@ -5,6 +5,8 @@
     <button>CV</button></a>
   <a href="https://carlykleinstern.github.io/aboutme.html">
     <button>About</button></a>
+  <a href="https://carlykleinstern.github.io/projects.html">
+    <button>Projects</button></a>
 </div>
 
          
