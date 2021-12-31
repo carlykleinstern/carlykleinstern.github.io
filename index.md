@@ -5,7 +5,7 @@
   <a href="https://carlykleinstern.github.io/aboutme.html">
     <button style="height:60px;width:100px">About</button></a>
   <a href="https://carlykleinstern.github.io/projects.html">
-    <button style="height:60px;width:100px">Projects</button></a>
+    <button style="height:60px;width:100px;background-color:#1a8fa1">Projects</button></a>
 </div>
 
          
