@@ -1,11 +1,23 @@
 
 
-
-<div class="container">
-  <div class="vertical-center">
-    <a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
-    <button>CV</button></a>
-  </div>
+<div id="nav">
+  <ul>
+    <li class="nav_button">
+      <a href="index.html">Home</a>
+    </li>
+    <li class="nav_button">
+      <a href="rates.html">Rates &amp; Packages</a>
+    </li>
+    <li class="nav_button">
+        <a href="about.html">About Us</a>
+    </li>
+    <li class="nav_button">
+       <a href="menu.html">Menu</a>
+    </li>
+    <li class="nav_button">
+      <a href="attractions.html">Nearby Attractions</a>
+    </li>
+  </ul>
 </div>
 
          
