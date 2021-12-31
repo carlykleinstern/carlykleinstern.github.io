@@ -50,7 +50,7 @@ Email: _cckleinstern@uchicago.edu_
   <br>
   <label>
     Your message:
-    <textarea name="message" style="color:#0f5f6b"></textarea>
+    <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
   <br>
