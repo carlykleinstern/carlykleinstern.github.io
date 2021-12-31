@@ -15,4 +15,4 @@ It's not been a straight shot to atmospheric sciences...my past experience is in
 
 Experimental particle physics (direct dark matter detection using liquid and solid state detectors), astrophysics (galaxy mergers), astronomy (radio astronomy, X-shaped radio galaxies; optical astronomy, comets and asteroids)
 
-You can find my CV [here](https://carlykleinstern.github.io/carlykleinstern/KleinStern_CV_publish.pdf).
+You can find my CV [here](https://carlykleinstern.github.io/KleinStern_CV_publish.pdf).
