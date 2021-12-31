@@ -14,7 +14,7 @@
          
 ## **Carly KleinStern**
 
-I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences. 
+I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences. My research is high-altitude in-situ water vapor and water vapor isotopologue measurements in the upper troposphere and lower stratosphere (UT/LS). 
 
 
 <p align="center">
@@ -24,7 +24,7 @@ I'm a 3rd year Physics PhD student at the University of Chicago. I work with Pro
 
 ### **Research**
 
-High-altitude in-situ water vapor and water vapor isotopologue measurements in the upper troposphere and lower stratosphere (UT/LS).
+
 
 
 ### **Experience**
