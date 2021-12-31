@@ -1,7 +1,9 @@
-
+---
 layout: page
 title: About me
 permalink: /aboutme/
+---
 
-I'm Carly KleinStern, a 3rd year PhD student at the University of Chicago.
-My affiliation is with the Department of Physics, but I work in the Department of Geosciences.
+## **About**
+
+I was raised in CT, went to college in Boston, and moved to Chicago for grad school. Outside of physics I love to hike, bike, and read.
