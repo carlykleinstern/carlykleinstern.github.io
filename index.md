@@ -4,10 +4,10 @@
     <button style="height:60px;width:100px;color:#3b0c6e; font-weight:bold; border-color:#3b0c6e; background-color:White">CV</button></a>
   <a href="https://carlykleinstern.github.io/aboutme.html">
     <button style="height:60px;width:100px;color:##0e1f6b; font-weight:bold; border-color:#0e1f6b; background-color:White">About</button></a>
-   <a href="https://carlykleinstern.github.io/projects.html">
-    <button style="height:60px;width:100px;color: #0d782d; font-weight:bold; border-color: #0d782d; background-color:White">Research</button></a>
   <a href="https://carlykleinstern.github.io/projects.html">
     <button style="height:60px;width:100px;color: #0f5f6b; font-weight:bold; border-color: #0f5f6b; background-color:White">Talks</button></a>
+  <a href="https://carlykleinstern.github.io/projects.html">
+    <button style="height:60px;width:100px;color: #0d782d; font-weight:bold; border-color: #0d782d; background-color:White">Research</button></a>
 
          
 
