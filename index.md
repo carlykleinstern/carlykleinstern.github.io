@@ -42,6 +42,7 @@ You can find my CV [here](https://carlykleinstern.github.io/KleinStern_CV_publis
 Email: _cckleinstern@uchicago.edu_
 <br>
 I'd also love to swap notes with other high-altitude water vapor and cloud formation teams.
+<br>
 
 <form
   action="https://formspree.io/f/mwkypbvd"
@@ -53,7 +54,7 @@ I'd also love to swap notes with other high-altitude water vapor and cloud forma
   </label>
   <br>
   <br>
-  <br>
+
   <label style="height:60px;width:auto;color:#179965; font-weight:bold; border-color:#179965; background-color:White">
     Your message:
     <textarea name="message"></textarea>
