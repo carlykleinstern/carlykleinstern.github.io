@@ -9,7 +9,7 @@
   <a href="https://carlykleinstern.github.io/aboutme.html">
     <button style="height:60px;width:100px;color: #0d782d; font-weight:bold; border-color: #0d782d; background-color:White">About</button></a>
   <a href="https://carlykleinstern.github.io/presentations.html">
-    <button style="height:60px;width:100px;color: #39f50f; font-weight:bold; border-color: #39f50f; background-color:White">Talks</button></a>
+    <button style="height:60px;width:100px;color: #30c210; font-weight:bold; border-color: #30c210; background-color:White">Talks</button></a>
 </div>
 
 ## **About**
