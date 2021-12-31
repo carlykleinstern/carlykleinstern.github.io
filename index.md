@@ -7,7 +7,7 @@ I'm a 3rd year Physics PhD student at the University of Chicago. I work with Pro
 I make high-altitude in-situ water vapor measurements in the upper troposphere and lower stratosphere (UT/LS).
 
 Our instrument is the Chicago Water Isotope Spectrometer (ChiWIS), which flies aboard high-altitude research aircraft like the M-55 Geophysica and 
-[NASA's WB-57](https://airbornescience.nasa.gov/aircraft/WB-57_-_JSC). I am part of the [Asian Summer Monsoon Chemical and Climate Impact (ACCLIP)](https://www2.acom.ucar.edu/acclip) mission, which will have science flights out of Osan Air Base, South Korea in Summer 2022.
+[NASA's WB-57](https://airbornescience.nasa.gov/aircraft/WB-57_-_JSC). I am part of the [Asian Summer Monsoon Chemical and Climate Impact Project (ACCLIP)](https://www2.acom.ucar.edu/acclip), which will have science flights out of Osan Air Base, South Korea in Summer 2022.
 
 
 ### Experience
