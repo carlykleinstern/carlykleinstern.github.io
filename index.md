@@ -16,10 +16,8 @@
 My research is high-altitude in-situ water vapor and water vapor isotopologue measurements in the upper troposphere and lower stratosphere (UT/LS). 
 </p>
 
-<div>
-    <p style="float: left;"><img src="photos/bean.jpg" height=300px width=auto border=200px align=right></p> <p align=left>  </p>
-</div>
 
+<img src = "photos/bean.jpg" alt="hi" class="inline" width=300px height=auto/></center>
 
 
 
