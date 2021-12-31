@@ -13,7 +13,8 @@
 </div>
          
 
-<span style="color:#0e1f6b">*Carly KleinStern*</span>
+<span style="color:#0e1f6b">**Carly KleinStern**</span>
+<br>
 
 I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences.
 My research is high-altitude in-situ water vapor and water vapor isotopologue measurements in the upper troposphere and lower stratosphere (UT/LS). 
@@ -28,7 +29,8 @@ My research is high-altitude in-situ water vapor and water vapor isotopologue me
 
 
 
-<span style="color:#0e1f6b">*Experience*</span>
+<span style="color:#0e1f6b">**Experience**</span>
+<br>
 It's not been a straight shot to atmospheric sciences...my previous research experience is in:
 
 - Experimental particle physics (direct dark matter detection using liquid and solid state detectors)
@@ -38,8 +40,8 @@ It's not been a straight shot to atmospheric sciences...my previous research exp
 You can find my CV [here](https://carlykleinstern.github.io/KleinStern_CV_publish.pdf).
 
 
-<span style="color:#0e1f6b">*Let's talk!*</span>
-
+<span style="color:#0e1f6b">**Let's talk!**</span>
+<br>
 
   
 Email: _cckleinstern@uchicago.edu_
