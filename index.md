@@ -25,9 +25,9 @@ I'm a 3rd year Physics PhD student at the University of Chicago. I work with Pro
 ### **Experience**
 It's not been a straight shot to atmospheric sciences...my previous research experience is in:
 
--Experimental particle physics (direct dark matter detection using liquid and solid state detectors)
--Astrophysics (galaxy mergers)
--Astronomy (radio astronomy, X-shaped radio galaxies; optical astronomy, comets and asteroids)
+- Experimental particle physics (direct dark matter detection using liquid and solid state detectors)
+- Astrophysics (galaxy mergers)
+- Astronomy (radio astronomy, X-shaped radio galaxies; optical astronomy, comets and asteroids)
 
 You can find my CV [here](https://carlykleinstern.github.io/KleinStern_CV_publish.pdf).
 
