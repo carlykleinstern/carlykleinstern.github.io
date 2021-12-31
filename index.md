@@ -1,7 +1,7 @@
 nav_order: 4
 aux_links:
   "Carly KleinStern":
-    - "https://carlykleinstern/github.io"
+    - "https://carlykleinstern.github.io"
 
 ## **Carly KleinStern**
 
