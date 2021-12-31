@@ -3,7 +3,7 @@
   <a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
     <button style="height:60px;width:100px;color:#3b0c6e; font-weight:bold; border-color:#3b0c6e; background-color:White">CV</button></a>
   <a href="https://carlykleinstern.github.io">
-    <button style="height:60px;width:100px;color:##0e1f6b; font-weight:bold; border-color:#0e1f6b; background-color:White">Home</button></a>
+    <button style="height:60px;width:100px;color:#0e1f6b; font-weight:bold; border-color:#0e1f6b; background-color:White">Home</button></a>
   <a href="https://carlykleinstern.github.io/projects.html">
     <button style="height:60px;width:100px;color:#0f5f6b; font-weight:bold; border-color:#0f5f6b; background-color:White">Research</button></a>
   <a href="https://carlykleinstern.github.io/aboutme.html">
@@ -13,8 +13,8 @@
 </div>
          
 
-         
-### **Carly KleinStern**
+<span style="color:#0e1f6b">*Carly KleinStern*</span>
+
 I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences.
 My research is high-altitude in-situ water vapor and water vapor isotopologue measurements in the upper troposphere and lower stratosphere (UT/LS). 
 
@@ -28,7 +28,7 @@ My research is high-altitude in-situ water vapor and water vapor isotopologue me
 
 
 
-### **Experience**
+<span style="color:#0e1f6b">*Experience*</span>
 It's not been a straight shot to atmospheric sciences...my previous research experience is in:
 
 - Experimental particle physics (direct dark matter detection using liquid and solid state detectors)
@@ -38,7 +38,7 @@ It's not been a straight shot to atmospheric sciences...my previous research exp
 You can find my CV [here](https://carlykleinstern.github.io/KleinStern_CV_publish.pdf).
 
 
-### **Let's talk!**
+<span style="color:#0e1f6b">*Let's talk!*</span>
 
 
   
