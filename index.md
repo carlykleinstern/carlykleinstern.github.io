@@ -3,7 +3,7 @@
 <div class="topnav">
   <a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
     <button>CV</button></a>
-  <a href="https://carlykleinstern.github.io/aboutme">
+  <a href="https://carlykleinstern.github.io/aboutme/">
     <button>About</button></a>
 </div>
 
