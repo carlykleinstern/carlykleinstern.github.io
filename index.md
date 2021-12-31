@@ -42,14 +42,14 @@ Email: _cckleinstern@uchicago.edu_
   action="https://formspree.io/f/mwkypbvd"
   method="POST"
 >
-  <label style="height:60px;width:auto;color:#26a31d; font-weight:bold; border-color:#26a31d; background-color:White">
+  <label style="height:60px;width:auto;color:#1f8a17; font-weight:bold; border-color:#1f8a17; background-color:White">
     Your email address:
     <input type="email" name="_replyto">
   </label>
   <br>
   <br>
   <br>
-  <label style="height:60px;width:auto;color:#26a31d; font-weight:bold; border-color:#26a31d; background-color:White">
+  <label style="height:60px;width:auto;color:#1f8a17; font-weight:bold; border-color:#1f8a17; background-color:White">
     Your message:
     <textarea name="message"></textarea>
   </label>
@@ -57,6 +57,6 @@ Email: _cckleinstern@uchicago.edu_
   <br>
   <br>
   <br>
-  <button type="submit" style="height:60px;width:100px;color:#0f5f6b; font-weight:bold; border-color:#26a31d; background-color:White">Send</button>
+  <button type="submit" style="height:60px;width:100px;color:#1f8a17; font-weight:bold; border-color:#1f8a17; background-color:White">Send</button>
 </form>
 
