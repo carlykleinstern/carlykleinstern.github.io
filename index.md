@@ -45,10 +45,12 @@ Email: _cckleinstern@uchicago.edu_
   </label>
   <br>
   <br>
+  <br>
   <label>
     Your message:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
+  <br>
   <button type="submit">Send</button>
 </form>
