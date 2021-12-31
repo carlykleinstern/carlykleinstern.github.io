@@ -56,3 +56,21 @@ Email: _cckleinstern@uchicago.edu_
   <br>
   <button type="submit" style="height:60px;width:100px;color:#0f5f6b; font-weight:bold; border-color:#0f5f6b; background-color:White">Send</button>
 </form>
+
+
+<span class="label success">Success</span>
+<span class="label info">Info</span>
+<span class="label warning">Warning</span>
+<span class="label danger">Danger</span>
+<span class="label other">Other</span>
+
+.label {
+  color: white;
+  padding: 8px;
+}
+
+.success {background-color: #04AA6D;} /* Green */
+.info {background-color: #2196F3;} /* Blue */
+.warning {background-color: #ff9800;} /* Orange */
+.danger {background-color: #f44336;} /* Red */ 
+.other {background-color: #e7e7e7; color: black;} /* Gray */
