@@ -19,6 +19,11 @@ My research is high-altitude in-situ water vapor and water vapor isotopologue me
     <img src="photos/IMG_1592.jpeg" alt="Carly" width=300px height=auto />
 </p>
 
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 
 
 
