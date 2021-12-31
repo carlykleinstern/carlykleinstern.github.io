@@ -51,6 +51,8 @@ Email: _cckleinstern@uchicago.edu_
   </label>
   <!-- your other form fields go here -->
   <br>
+  <br>
+  <br>
   <button type="submit" style="height:60px;width:100px;color:#0f5f6b; font-weight:bold; border-color:#0f5f6b; background-color:White">Send</button>
 </form>
 
