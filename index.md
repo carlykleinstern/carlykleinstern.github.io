@@ -41,14 +41,14 @@ Email: _cckleinstern@uchicago.edu_
 >
   <label>
     Your email address:
-    <input type="email" name="_replyto">
+    <input color=#0f5f6b type="email" name="_replyto">
   </label>
   <br>
   <br>
   <br>
   <label>
     Your message:
-    <textarea name="message"></textarea>
+    <textarea color=#0f5f6b name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
   <br>
