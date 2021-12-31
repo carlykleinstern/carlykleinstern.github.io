@@ -2,7 +2,7 @@
 
 <div class="topnav">
   <a href="https://carlykleinstern.github.io/KleinStern_CV_publish.pdf">
-    <button>Click me</button></a>
+    <button>CV</button></a>
 </div>
 
          
