@@ -12,7 +12,8 @@
     <button style="height:60px;width:100px;color: #30c210; font-weight:bold; border-color: #30c210; background-color:White">Talks</button></a>
 </div>
 
-## **About**
+<span style="color:#0d782d"><font size="18">About</font></span>
+<br>
 
 I was raised in Connecticut, went to college in Boston, and moved to Chicago for grad school. Outside of physics I love to hike, bike, cook, and read. 
 Here are some of my favorite science related links: 
