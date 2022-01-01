@@ -13,7 +13,7 @@
 </div>
          
 
-<span style="color:#0e1f6b">**Carly KleinStern**</span>
+<span style="color:#0e1f6b"><font size="18">**Carly KleinStern**</font></span>
 <br>
 
 I'm a 3rd year Physics PhD student at the University of Chicago. I work with Prof. Elisabeth Moyer and Dr. Benjamin Clouser in the Department of Geosciences.
