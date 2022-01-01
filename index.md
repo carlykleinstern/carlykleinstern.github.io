@@ -27,8 +27,6 @@ My research is high-altitude in-situ water vapor and water vapor isotopologue me
 
 
 
-
-
 <span style="color:#0e1f6b">**Experience**</span>
 <br>
 It's not been a straight shot to atmospheric sciences...my previous research experience is in:
@@ -55,14 +53,14 @@ I'd also love to swap notes with other high-altitude water vapor and cloud forma
   action="https://formspree.io/f/mwkypbvd"
   method="POST"
 >
-  <label style="height:60px;width:auto;color:#179965; font-weight:bold; border-color:#179965; background-color:White">
+  <label style="height:60px;width:auto;color:#0e1f6b; font-weight:bold; border-color:#179965; background-color:White">
     Your email address:
     <input type="email" name="_replyto">
   </label>
   <br>
   <br>
 
-  <label style="height:60px;width:auto;color:#179965; font-weight:bold; border-color:#179965; background-color:White">
+  <label style="height:60px;width:auto;color:#0e1f6b; font-weight:bold; border-color:#179965; background-color:White">
     Your message:
     <textarea name="message"></textarea>
   </label>
@@ -70,6 +68,6 @@ I'd also love to swap notes with other high-altitude water vapor and cloud forma
   <br>
   <br>
   <br>
-  <button type="submit" style="height:60px;width:100px;color:#179965; font-weight:bold; border-color:#179965; background-color:White">Send</button>
+  <button type="submit" style="height:60px;width:100px;color:#0e1f6b; font-weight:bold; border-color:#0e1f6b; background-color:White">Send</button>
 </form>
 </div>
