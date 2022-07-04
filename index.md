@@ -20,7 +20,7 @@ I'm a 3rd year Physics PhD student at the University of Chicago. I work with Pro
 My research is high-altitude in-situ water vapor and water vapor isotopologue measurements in the upper troposphere and lower stratosphere (UT/LS). 
 
 <div align='center'>
-   <img src="photos/IMG_4379.HEIC" alt="Carly" width=150px height=auto><br/>
+   <img src="photos/IMG_4379.png" alt="Carly" width=150px height=auto><br/>
 </div>
 
 
