@@ -16,6 +16,13 @@
 <span style="color:#30c210"><font size="16"><b>Talks</b></font></span>
 <br>
 
+Talk (2023): _**Temperature and tracer variations during the overflight of typhoon Hinnamnor**_
+National Center for Atmospheric Research
+
+Talk (2023): _**Water vapor isotopologues in the N. Am. and Asian Summer Monsoon**_
+<br>
+International Partnership for Cirrus Studies
+
 Talk (2022): _**Why aircraft measurements are important for climate science**_
 <br>
 Energy Policy Institute at the University of Chicago
